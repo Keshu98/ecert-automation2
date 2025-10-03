@@ -1,0 +1,12 @@
+/target/
+/*.iml
+/.idea/
+/.mvn/
+*.class
+*.log
+/frontend/node_modules/
+frontend/build/
+
+.DS_Store
+npm-debug.log
+yarn-error.log
